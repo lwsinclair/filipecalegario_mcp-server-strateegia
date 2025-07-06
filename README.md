@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-filipecalegario-mcp-server-strateegia-badge.png)](https://mseep.ai/app/mcp-mirror-filipecalegario-mcp-server-strateegia)
+
 # strateegia MCP Server
 
 This is a Model Context Protocol (MCP) server that integrates with the strateegia API, allowing AI assistants like Claude or Cursor to access and interact with your strateegia projects.
